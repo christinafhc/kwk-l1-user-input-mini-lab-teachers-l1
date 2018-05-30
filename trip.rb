@@ -7,4 +7,3 @@ eat = gets.chomp
 
 puts "how long are you staying?"
 length = gets.chomp
-
