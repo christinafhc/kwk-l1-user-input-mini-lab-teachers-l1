@@ -8,4 +8,4 @@ eat = gets.chomp
 puts "how long are you staying?"
 nights = gets.chomp
 
-puts "you are visiting #{{stay}} for #{nights} nights, so you can eat #{eat}"
+puts "you are visiting #{stay} for #{nights} nights, so you can eat #{eat}"
